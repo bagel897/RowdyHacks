@@ -1,2 +1,5 @@
 Django==2.1.14 #This requirement must remain pinned at 2.1.14 until https://github.com/PyMySQL/PyMySQL/issues/790 is resolved
 PyMySQL==0.9.3
+djangorestframework>=3.9.0<3.10.0
+djangorestframework>=3.9.0<3.10.0
+psycopg2>=2.7.5,<2.8.0
