@@ -18,7 +18,7 @@ Step 4.5: Test on local
 `python manage.py migrate`  
 `python manage.py runserver`
 
-Step 5: Launch
+Step 5: Launch  
 `python manage.py collectstatic`
 `gcloud app deploy`
 
