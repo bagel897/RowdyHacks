@@ -7,6 +7,16 @@
         <option name="sdkFolder" value="$USER_HOME$/Downloads/google-cloud-sdk" />
       </configuration>
     </facet>
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$/../RowdyHacks(2)/app" />
+        <option name="settingsModule" value="app/settings.py" />
+        <option name="manageScript" value="manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+        <option name="doNotUseTestRunner" value="false" />
+        <option name="trackFilePattern" value="" />
+      </configuration>
+    </facet>
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$/../RowdyHacks(2)">
@@ -16,5 +26,8 @@
     <orderEntry type="jdk" jdkName="Python 3.7 (RowdyHacks(2))" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Google App Engine SDK" level="project" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
   </component>
 </module>
